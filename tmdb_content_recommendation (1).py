@@ -840,7 +840,7 @@ pickle.dump(similarity,open('similarity.pkl','wb'))
 # In[107]:
 
 
-pickle.dump(popularity2,open('pop.pkl','wb'))
+
 
 
 # In[ ]:
