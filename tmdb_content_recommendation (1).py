@@ -260,7 +260,8 @@ df1 = df.dropna()
 
 
 df1.isna().sum()
-
+df1 = df.dropna()
+df1.isna().sum()
 
 # # EDA
 
